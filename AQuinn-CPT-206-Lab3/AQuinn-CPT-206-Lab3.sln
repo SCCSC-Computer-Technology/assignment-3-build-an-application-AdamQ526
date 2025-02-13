@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQuinn-CPT-206-Lab3", "AQuinn-CPT-206-Lab3.csproj", "{19877D79-2F0A-4376-8556-3AAE35EB34A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19877D79-2F0A-4376-8556-3AAE35EB34A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19877D79-2F0A-4376-8556-3AAE35EB34A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19877D79-2F0A-4376-8556-3AAE35EB34A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19877D79-2F0A-4376-8556-3AAE35EB34A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F68C4DB5-22D2-4073-95AD-D76F3AC0C89E}
+	EndGlobalSection
+EndGlobal

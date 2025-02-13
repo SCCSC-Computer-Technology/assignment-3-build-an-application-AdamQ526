@@ -1,0 +1,13 @@
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\bin\Debug\StateInfo.mdf
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\bin\Debug\StateInfo_log.ldf
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\bin\Debug\AQuinn-CPT-206-Lab3.exe.config
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\bin\Debug\AQuinn-CPT-206-Lab3.exe
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\bin\Debug\AQuinn-CPT-206-Lab3.pdb
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn-CPT-206-Lab3.csproj.AssemblyReference.cache
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn_CPT_206_Lab3.Form1.resources
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn_CPT_206_Lab3.Properties.Resources.resources
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn-CPT-206-Lab3.csproj.GenerateResource.cache
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn-CPT-206-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn-CPT-206-Lab3.exe
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn-CPT-206-Lab3.pdb
+C:\Users\adamq\source\repos\AQuinn-CPT-206-Lab3\obj\Debug\AQuinn_CPT_206_Lab3.StateDetailscs.resources
