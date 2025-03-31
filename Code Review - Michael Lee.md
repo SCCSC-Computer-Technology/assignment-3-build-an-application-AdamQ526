@@ -1,0 +1,1 @@
+Good program. Easy to use and all info appears to be displaying correctly. The only major issue I faced was when deleting elements, nothing seemed to change on the actual UI. It seems that data might be modified on the adapter but not the underlying database. Minor issue, otherwise everything else seemed to work perfectly. Overall, great job.
